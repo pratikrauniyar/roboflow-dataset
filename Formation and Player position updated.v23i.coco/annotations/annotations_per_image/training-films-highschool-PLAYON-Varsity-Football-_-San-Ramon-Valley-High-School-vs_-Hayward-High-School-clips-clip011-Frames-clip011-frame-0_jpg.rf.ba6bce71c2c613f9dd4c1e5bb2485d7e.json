@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-Varsity-Football-_-San-Ramon-Valley-High-School-vs_-Hayward-High-School-clips-clip011-Frames-clip011-frame-0_jpg.rf.ba6bce71c2c613f9dd4c1e5bb2485d7e.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-4-4-3",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_off": [
+        "defense-4-4-3",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_def": [
+        "defense-4-4-3",
+        "offense-1back-undercenter-2x2"
+    ]
+}

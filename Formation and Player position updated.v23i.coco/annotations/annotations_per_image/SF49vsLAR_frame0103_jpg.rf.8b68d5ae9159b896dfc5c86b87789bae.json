@@ -1,0 +1,19 @@
+{
+    "image_path": "SF49vsLAR_frame0103_jpg.rf.8b68d5ae9159b896dfc5c86b87789bae.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "offense-1back-undercenter-2x2",
+        "defense-5-2-4"
+    ],
+    "cls_off": [
+        "offense-1back-undercenter-2x2",
+        "defense-5-2-4"
+    ],
+    "cls_def": [
+        "offense-1back-undercenter-2x2",
+        "defense-5-2-4"
+    ]
+}

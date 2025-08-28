@@ -1,0 +1,19 @@
+{
+    "image_path": "Clip-100-frame-0_jpg.rf.7fd650be4eea706ff1e2f4b1f19c8ac6.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ],
+    "cls_off": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ],
+    "cls_def": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ]
+}

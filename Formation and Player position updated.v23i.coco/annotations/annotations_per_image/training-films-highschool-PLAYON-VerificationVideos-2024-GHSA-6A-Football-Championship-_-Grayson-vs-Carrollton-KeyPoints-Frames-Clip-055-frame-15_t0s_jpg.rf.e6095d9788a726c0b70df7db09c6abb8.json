@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-2024-GHSA-6A-Football-Championship-_-Grayson-vs-Carrollton-KeyPoints-Frames-Clip-055-frame-15_t0s_jpg.rf.e6095d9788a726c0b70df7db09c6abb8.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-6-2-3",
+        "offense-1back-shotgun-2x2"
+    ],
+    "cls_off": [
+        "defense-6-2-3",
+        "offense-1back-shotgun-2x2"
+    ],
+    "cls_def": [
+        "defense-6-2-3",
+        "offense-1back-shotgun-2x2"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-Varsity-Football-_-Archbishop-Spalding-High-School-vs_-Mount-St_-Joseph-Clips-Clip-050-Frames-Clip-050-frame-12_jpg.rf.c47cf55c327b01b55d52b34dcaf944e5.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-4-3-4",
+        "offense-pistol-2x2"
+    ],
+    "cls_off": [
+        "defense-4-3-4",
+        "offense-pistol-2x2"
+    ],
+    "cls_def": [
+        "defense-4-3-4",
+        "offense-pistol-2x2"
+    ]
+}

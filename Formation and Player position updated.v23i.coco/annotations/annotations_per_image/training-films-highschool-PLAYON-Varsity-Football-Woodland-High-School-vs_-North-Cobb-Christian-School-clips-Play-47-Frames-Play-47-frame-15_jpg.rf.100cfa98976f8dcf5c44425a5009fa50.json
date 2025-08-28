@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-Varsity-Football-Woodland-High-School-vs_-North-Cobb-Christian-School-clips-Play-47-Frames-Play-47-frame-15_jpg.rf.100cfa98976f8dcf5c44425a5009fa50.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "offense-pistol-2x2",
+        "defense-3-4-4"
+    ],
+    "cls_off": [
+        "offense-pistol-2x2",
+        "defense-3-4-4"
+    ],
+    "cls_def": [
+        "offense-pistol-2x2",
+        "defense-3-4-4"
+    ]
+}

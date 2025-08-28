@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-2024-CIF-SS-Ford-Div_-1-Football-Championship-_-St_-John-Bosco-vs_-Mater-Dei-KeyPoints-Frames-Clip024-frame-15_t0s_jpg.rf.cb1fcda5875ac41cbd95da92549a8317.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ],
+    "cls_off": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ],
+    "cls_def": [
+        "offense-pistol-3x1",
+        "defense-4-3-4"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-Varsity-Football-Richmond-Hill-High-School-vs_-H_-V_-Jenkins-High-School-Clips-Clip-003-Frames-Clip-003-frame-12_jpg.rf.a7983b0f19875e6c2d5bb213355492c2.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-5-3-3",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_off": [
+        "defense-5-3-3",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_def": [
+        "defense-5-3-3",
+        "offense-1back-undercenter-2x2"
+    ]
+}

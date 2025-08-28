@@ -1,0 +1,23 @@
+{
+    "image_path": "images/frame_001.jpg",
+    "x_def": [   ],
+    "y_def": [   ],
+    "x_off": [   ],
+    "y_off": [   ],
+    "cls": ["offense_player", "defense_player"],
+    "cls_off": ["offense_player"],
+    "cls_def": ["defense_player"]
+}
+
+
+
+
+
+
+
+
+
+annotations_per_image/
+ ├── image1.json
+ ├── image2.json
+ ├── image3.json

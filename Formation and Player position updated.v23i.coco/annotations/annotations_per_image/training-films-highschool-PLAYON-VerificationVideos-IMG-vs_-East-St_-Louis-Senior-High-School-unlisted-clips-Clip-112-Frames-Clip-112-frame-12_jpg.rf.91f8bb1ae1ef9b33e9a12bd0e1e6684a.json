@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-IMG-vs_-East-St_-Louis-Senior-High-School-unlisted-clips-Clip-112-Frames-Clip-112-frame-12_jpg.rf.91f8bb1ae1ef9b33e9a12bd0e1e6684a.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_off": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_def": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ]
+}

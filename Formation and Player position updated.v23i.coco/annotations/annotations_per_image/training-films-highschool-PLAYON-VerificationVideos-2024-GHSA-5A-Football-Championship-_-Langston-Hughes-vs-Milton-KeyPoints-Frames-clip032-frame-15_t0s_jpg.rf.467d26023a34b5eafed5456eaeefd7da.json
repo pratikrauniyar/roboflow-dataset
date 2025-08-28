@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-2024-GHSA-5A-Football-Championship-_-Langston-Hughes-vs-Milton-KeyPoints-Frames-clip032-frame-15_t0s_jpg.rf.467d26023a34b5eafed5456eaeefd7da.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "offense-pistol-3x1",
+        "defense-4-4-3"
+    ],
+    "cls_off": [
+        "offense-pistol-3x1",
+        "defense-4-4-3"
+    ],
+    "cls_def": [
+        "offense-pistol-3x1",
+        "defense-4-4-3"
+    ]
+}

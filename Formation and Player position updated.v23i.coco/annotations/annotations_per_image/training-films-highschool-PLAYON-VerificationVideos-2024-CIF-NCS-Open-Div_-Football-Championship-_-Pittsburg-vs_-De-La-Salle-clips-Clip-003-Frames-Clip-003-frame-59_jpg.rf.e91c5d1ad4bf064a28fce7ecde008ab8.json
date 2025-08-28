@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-2024-CIF-NCS-Open-Div_-Football-Championship-_-Pittsburg-vs_-De-La-Salle-clips-Clip-003-Frames-Clip-003-frame-59_jpg.rf.e91c5d1ad4bf064a28fce7ecde008ab8.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ],
+    "cls_off": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ],
+    "cls_def": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ]
+}

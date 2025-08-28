@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-Varsity-Football-_-Patrick-Henry-High-School-vs_-Escondido-High-School-clips-clip061-Frames-clip061-frame-0_jpg.rf.293e40d87a8e1ce6cf4689e777caa8d1.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ],
+    "cls_off": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ],
+    "cls_def": [
+        "defense-5-2-4",
+        "offense-2back-2x1"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-Roswell-High-School-vs_-Buford-High-School-clips-Clip-101-Frames-Clip-101-frame-12_jpg.rf.05bba9c632adec85ba27fd50c928cdc5.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_off": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_def": [
+        "defense-3-3-5",
+        "offense-1back-shotgun-3x1"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-VerificationVideos-2024-NIAA-Football-Game-of-the-Week-_-Orange-Lutheran-vs_-Bishop-Gorman-clips-Clip-009-Frames-Clip-009-frame-15_jpg.rf.62801575ae3e03bd8af738565b0001a2.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-4-4-3",
+        "offense-2back-2x1"
+    ],
+    "cls_off": [
+        "defense-4-4-3",
+        "offense-2back-2x1"
+    ],
+    "cls_def": [
+        "defense-4-4-3",
+        "offense-2back-2x1"
+    ]
+}

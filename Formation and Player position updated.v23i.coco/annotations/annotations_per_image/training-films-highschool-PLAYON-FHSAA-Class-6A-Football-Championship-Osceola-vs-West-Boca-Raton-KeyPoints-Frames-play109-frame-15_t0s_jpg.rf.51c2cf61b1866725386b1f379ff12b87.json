@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-FHSAA-Class-6A-Football-Championship-Osceola-vs-West-Boca-Raton-KeyPoints-Frames-play109-frame-15_t0s_jpg.rf.51c2cf61b1866725386b1f379ff12b87.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-5-2-4",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_off": [
+        "defense-5-2-4",
+        "offense-1back-undercenter-2x2"
+    ],
+    "cls_def": [
+        "defense-5-2-4",
+        "offense-1back-undercenter-2x2"
+    ]
+}

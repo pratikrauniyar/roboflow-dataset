@@ -1,0 +1,19 @@
+{
+    "image_path": "training-films-highschool-PLAYON-Varsity-Football-_-Lincoln-High-School-vs_-John-Paul-II-High-School-clips-clip065-Frames-clip065-frame-0_jpg.rf.756d7a2af396c6c6bbb53ddf7ceeb438.jpg",
+    "x_def": [],
+    "y_def": [],
+    "x_off": [],
+    "y_off": [],
+    "cls": [
+        "defense-7-2-2",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_off": [
+        "defense-7-2-2",
+        "offense-1back-shotgun-3x1"
+    ],
+    "cls_def": [
+        "defense-7-2-2",
+        "offense-1back-shotgun-3x1"
+    ]
+}
